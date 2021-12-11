@@ -255,12 +255,6 @@ body {
     color: #fff;
 }
 
-.blue a:active,
-a:active,
-a:visited {
-    color: #0d4cd3;
-}
-
 .white {
     color: #fff;
 }
@@ -382,4 +376,10 @@ a:visited,
 a:hover,
 a:active {
     color: white;
+}
+
+.blue a:active,
+a:active,
+a:visited {
+    color: #0d4cd3;
 }
