@@ -255,6 +255,12 @@ body {
     color: #fff;
 }
 
+.blue a:active,
+a:active,
+a:visited {
+    color: #0d4cd3;
+}
+
 .white {
     color: #fff;
 }
