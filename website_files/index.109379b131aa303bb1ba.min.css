@@ -369,18 +369,18 @@ body {
     margin-right: auto;
 }
 
-a:link {
+mytext:link {
     color: white;
 }
 
-a:visited {
+mytext:visited {
     color: white;
 }
 
-a:hover {
+mytext:hover {
     color: white;
 }
 
-a:active {
+mytext:active {
     color: blue;
 }
